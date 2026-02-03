@@ -1,0 +1,14 @@
+{
+  "title": "Acme Studios",
+  "tagline": "We build delightful digital products.",
+  "sections": [
+    {
+      "heading": "Services",
+      "content": "Brand strategy, product design, and engineering."
+    },
+    {
+      "heading": "Contact",
+      "content": "hello@acmestudios.example"
+    }
+  ]
+}
